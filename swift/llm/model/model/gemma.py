@@ -154,6 +154,7 @@ register_model(
             ModelGroup([
                 Model('LLM-Research/gemma-3-4b-pt', 'google/gemma-3-4b-pt'),
                 Model('LLM-Research/gemma-3-4b-it', 'google/gemma-3-4b-it'),
+                Model('LLM-Research/medgemma-4b-it', 'google/medgemma-4b-it'),
                 Model('LLM-Research/gemma-3-12b-pt', 'google/gemma-3-12b-pt'),
                 Model('LLM-Research/gemma-3-12b-it', 'google/gemma-3-12b-it'),
                 Model('LLM-Research/gemma-3-27b-pt', 'google/gemma-3-27b-pt'),
